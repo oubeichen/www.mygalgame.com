@@ -1,5 +1,5 @@
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
-### 🌟 [https://mynovel.life/www.mygalgame.com/](https://mynovel.life/www.mygalgame.com/)
+### 🌟 [https://Beats0.github.io/www.mygalgame.com/](https://Beats0.github.io/www.mygalgame.com/)
 ### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame/)
 
 [![](https://data.jsdelivr.com/v1/package/gh/Beats0/www.mygalgame.com/badge)](https://www.jsdelivr.com/package/gh/Beats0/www.mygalgame.com)
@@ -7,16 +7,13 @@
 * [Game List](#game-list)
 * [Tree](#tree)
 * [Update Log](#update-log)
-* [Open-source](#open-source)
 
 
 #### Game List
 
-~~注意: 链接改为了动态，需要等待几秒拉取数据才能获取正确的链接, 和谐较多的一般会一个月后全部自动重新更新~~
+所有资源已失效，不提供下载地址，当前仅作展示用，长期不维护中...
 
-网盘被永久禁封了，所有资源已失效，不再提供下载地址，当前仅作展示用，长期不维护中...
-
-[列表Game List](https://mynovel.life/www.mygalgame.com/Game_list/mygalgameList.html)
+[列表Game List](https://Beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
 
 [背景图](https://beats0.github.io/scripter/yande.re_db/)
 
@@ -498,19 +495,3 @@ wwww.galgame.com
 #### Update Log
 
 2017-10-1 ———— now
-
---------------------------------------------------------------
-
-#### Open source
-
-- mygalgame(theme):[GitHub:mygalgame](https://github.com/Beats0/mygalgame)
-- Bootstrap(css,js):[GitHub:Bootstrap](https://github.com/twbs/bootstrap)
-- AOS.js(css,js):[GitHub:AOS.js](https://github.com/michalsnik/aos)
-- hint(css):[GitHub:hint.css](https://github.com/chinchang/hint.css)
-- font-awesome：(css)[GitHub:font-awesome](https://github.com/FortAwesome/Font-Awesome)
-- WORDPRESS Theme：[wordpress.org](https://wordpress.org/themes/)
-- WP Ajax Edit Comments:[https://wordpress.org/plugins/wp-ajax-edit-comments/](https://wordpress.org/plugins/wp-ajax-edit-comments/)
-- Highslide.js(js):[http://highslide.com](http://highslide.com) and [https://www.highcharts.com/demo](https://www.highcharts.com/demo)
-- jquery:[GitHub:jquery](https://github.com/jquery/jquery)
-- jquery.lazyload:[GitHub:jquery.lazyload](https://github.com/tuupola/jquery_lazyload)
-- jQuery-Colorbox:[GitHub:jQuery-Colorbox](https://github.com/afranken/jQuery-Colorbox)
